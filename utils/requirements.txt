@@ -1,6 +1,0 @@
-python-telegram-bot==13.11.9
-requests
-gspread
-oauth2client
-pandas
-
